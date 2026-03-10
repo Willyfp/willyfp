@@ -70,28 +70,19 @@ Aqui estão alguns projetos que demonstram minhas habilidades em desenvolvimento
 
 (Adicione aqui seus projetos mais importantes)
 
-- Mobile App (React Native)
-- Web Platform (Next.js)
-- Design System
-- API Integration Project
-
----
-
-## Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical)
+- ![Mobile App (React Native)](https://github.com/Willyfp/buscape)
+- ![Chat bot Whatsapp](https://github.com/Willyfp/chatbot-arraia)
+- ![Projeto NextJS com conexão de API](https://github.com/Willyfp/Recordum_app)
 
 ---
 
 ## Contato
 
 LinkedIn  
-https://linkedin.com/in/willy-pereira-bba153181
+![https://linkedin.com/in/willy-pereira-bba153181](https://www.linkedin.com/in/willy-pereira-bba153181/)
 
 GitHub  
-https://github.com/SEUUSUARIO
+![https://github.com/Willyfp](https://github.com/Willyfp)
 
 Email  
-SEUEMAIL
+![willypereira41@gmail.com](mailto:willypereira41@gmail.com)
