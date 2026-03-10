@@ -70,19 +70,19 @@ Aqui estão alguns projetos que demonstram minhas habilidades em desenvolvimento
 
 (Adicione aqui seus projetos mais importantes)
 
-- ![Mobile App (React Native)](https://github.com/Willyfp/buscape)
-- ![Chat bot Whatsapp](https://github.com/Willyfp/chatbot-arraia)
-- ![Projeto NextJS com conexão de API](https://github.com/Willyfp/Recordum_app)
+- [Mobile App (React Native)](https://github.com/Willyfp/buscape)
+- [Chat bot Whatsapp](https://github.com/Willyfp/chatbot-arraia)
+- [Projeto NextJS com conexão de API](https://github.com/Willyfp/Recordum_app)
 
 ---
 
 ## Contato
 
 LinkedIn  
-![https://linkedin.com/in/willy-pereira-bba153181](https://www.linkedin.com/in/willy-pereira-bba153181/)
+[https://linkedin.com/in/willy-pereira-bba153181](https://www.linkedin.com/in/willy-pereira-bba153181/)
 
 GitHub  
-![https://github.com/Willyfp](https://github.com/Willyfp)
+[https://github.com/Willyfp](https://github.com/Willyfp)
 
 Email  
-![willypereira41@gmail.com](mailto:willypereira41@gmail.com)
+willypereira41@gmail.com
